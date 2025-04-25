@@ -15,4 +15,4 @@ The goal is to demonstrate how modern data streaming, machine learning, and gene
 | producer.py        | Streams synthetic sensor data into Kafka topic     |
 | consumer.py        | Detects anomalies using Isolation Forest + GPT explanations |
 | docker-compose.yml | Sets up Kafka and Zookeeper via Docker             |
-| streamlit_app.py   | Live web dashboard for monitoring system health and anomalies |
+| app.py   | Live web Streamlit dashboard for monitoring system health and anomalies |
