@@ -1,7 +1,4 @@
 # Real-Time Anomaly Detection in Industrial IoT using Kafka, Isolation Forest, and GPT
-This project simulates a real-time industrial manufacturing environment, using modern big data and AI technologies to detect and explain anomalies in sensor data streams.
-
----
 
 ## Overview
 This project simulates a real-time industrial IoT quality monitoring system using modern big data and AI technologies. It mimics a high-throughput manufacturing environment where sensor data—such as temperature, vibration, pressure, and speed—is continuously streamed using Apache Kafka.
